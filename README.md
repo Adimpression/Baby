@@ -1,4 +1,8 @@
-(The baby is still in the womb, do not spawn anything yet. Due in a week)
+Faily decent place to start. Have a look at "Controller.java".
+
+pom.xml might need some cleaning up.
+
+You'll need TomEE.
 
 Why baby? Why baby, WHY?
 
